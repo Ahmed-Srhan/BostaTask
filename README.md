@@ -1,5 +1,5 @@
-
-# Tools and Technology Used
+# Bosta Task
+## Tools and Technology Used
 - Clean Architecture (MVVM)
 - Flow & StateFlow 
 - Dagger-hilt to handle dependency injection.
